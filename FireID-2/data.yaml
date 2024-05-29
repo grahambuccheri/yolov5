@@ -1,0 +1,12 @@
+names:
+- fire
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: fireid
+  url: https://universe.roboflow.com/wildfire-q0bqo/fireid/dataset/2
+  version: 2
+  workspace: wildfire-q0bqo
+test: ../test/images
+train: FireID-2/train/images
+val: FireID-2/valid/images

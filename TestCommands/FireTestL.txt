@@ -1,0 +1,1 @@
+python3 train.py --batch 32 --epochs 300 --data 'FireID-2/data.yaml' --weights '' --cfg 'models/yolov5m.yaml' --cache
